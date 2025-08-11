@@ -1,0 +1,1 @@
+I practiced exercises 6_3 and 6_4 with Gabe.
