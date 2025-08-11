@@ -5,7 +5,7 @@ deaths = {"Venezuela" : 1830,
           "Nicaragua": 523}
 
 for key, value in deaths.items():
-    print(f"The rate of killings by law enforcement officers in {key} is {value}")
+  print(f"The rate of killings by law enforcement officers in {key} is {value}")
 
   
 
