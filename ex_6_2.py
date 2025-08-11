@@ -14,3 +14,14 @@ incarceration_rates = {"Venezuela": 199}
 
 for key, value in incarceration_rates.items():
   print(f"{key} has an incarceration rate of {value}.")
+
+
+
+killings_rates = {"Venezuela": [1830, 199],
+                  "El Salvador": [1704, 1659],
+                  "Syria": [819, 60],
+                  "Philippines":[557, 162],
+                  "Nicaragua": [523, 332]}
+
+for key, value in killings_rates.items():
+  print(f"{key} has a killing rate of {value[0]} and incarceration rate of {value[1]}")
