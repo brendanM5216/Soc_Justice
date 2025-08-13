@@ -10,3 +10,6 @@ conda env create -f env.yaml
 
 Activate conda environment
 conda activate <env_name>
+
+Update existing environment
+conda env update -f env.yaml
