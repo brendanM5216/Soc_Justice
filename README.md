@@ -1,3 +1,5 @@
+# Soc_justice exercises
+
 I practiced exercises 6_3 and 6_4 with Gabe.
 
 Created new conda environment with:
@@ -7,10 +9,13 @@ Created new conda environment with:
 
 ## Commands
 Create conda environment
-conda env create -f env.yaml
+
+`conda env create -f env.yaml`
 
 Activate conda environment
-conda activate <env_name>
+
+`conda activate <env_name>`
 
 Update existing environment
-conda env update -f env.yaml
+
+`conda env update -f env.yaml`
